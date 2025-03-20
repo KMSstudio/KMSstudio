@@ -1,9 +1,7 @@
 <div align="center">
   <img src="https://github.com/KMSstudio/KMSstudio/blob/main/image/profile.jpg?raw=true" width="150" alt="Profile Image">
-  <h1>나는 보통사람입니다. 믿어주세요</h1>
+  <h1>나는 보통사람입니다. 나 이 사람, 믿어주세요</h1>
 </div>
-
----
 
 ### Statistics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KMSstudio&layout=compact&langs_count=10)
