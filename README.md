@@ -1,41 +1,37 @@
-<!-- README.md -->
-
-<div style="width: 100%; background-color: black; color: white; text-align: center; padding: 20px; font-size: 24px; font-weight: bold;">
-    신시우의 GitHub
+<div align="center">
+  <img src="https://github.com/KMSstudio/KMSstudio/blob/main/image/profile.jpg?raw=true" width="150" alt="Profile Image">
+  <h1>안녕하세요, 신시우입니다!</h1>
 </div>
 
-<div style="display: flex; align-items: center; padding: 20px;">
-    <img src="https://github.com/KMSstudio/KMSstudio/blob/main/image/profile.jpg?raw=true" alt="Profile Image" style="width: 100px; height: 100px; border-radius: 50%; margin-right: 20px;">
-    <div>
-        <h2>안녕하세요, 컴퓨터공학자 신시우입니다</h2>
-        <p>서울대학교 컴퓨터공학부 24학번</p>
-    </div>
-</div>
+---
 
-<div style="text-align: center; margin-top: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMSstudio&layout=compact&langs_count=10" alt="Top Languages">
-</div>
+### Statistics
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KMSstudio&layout=compact&langs_count=10)
 
-### 사용 언어
-<p align="center">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/Assembly-525252?style=flat-square&logo=assemblyscript&logoColor=white">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white">
-    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white">
-</p>
+---
 
-### IDE
-<p align="center">
-    <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
-    <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white">
-    <img src="https://img.shields.io/badge/Notepad-90EE90?style=flat-square&logo=notepad%2B%2B&logoColor=white">
-</p>
+### I like
+![C](https://img.shields.io/badge/C_lang-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/Cxx-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-383838?style=for-the-badge&logo=assemblyScript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Finance](https://img.shields.io/badge/Finance-FFD700?style=for-the-badge&logo=bitcoin&logoColor=black)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-6B9E25?style=for-the-badge&logo=linuxmint&logoColor=white)
+![Dell](https://img.shields.io/badge/Dell-007DB8?style=for-the-badge&logo=dell&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_Web_Services-0A182C?style=for-the-badge&logo=amazonwebservices&logoColor=FF9908)
+![Logitech](https://img.shields.io/badge/Logitech-38FADF?style=for-the-badge&logo=logitech&logoColor=000000)
 
-### SNS
-<p align="center">
-    <a href="https://www.instagram.com/clever.kang"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
-    <a href="https://github.com/KMSstudio"><img src="https://img.shields.io/badge/GitHub%20Page-181717?style=flat-square&logo=github&logoColor=white"></a>
-</p>
+### Social Network Service
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KMSstudio)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/clever.kang)
+[![Tstory](https://img.shields.io/badge/Tstory-white?style=for-the-badge&logo=telefonica&logoColor=black)](https://kms-program.tistory.com/)
+
+---
+
+### Utility
+![Remove.bg](https://img.shields.io/badge/Remove.bg-6C6C6C?style=for-the-badge&logo=removedotbg&logoColor=white)
+![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-000000?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
