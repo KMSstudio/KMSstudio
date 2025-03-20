@@ -34,5 +34,5 @@
 ---
 
 ### Utility
-![Remove.bg](https://img.shields.io/badge/Remove.bg-6C6C6C?style=for-the-badge&logo=removedotbg&logoColor=white)
-![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-000000?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
+[![Remove.bg](https://img.shields.io/badge/Remove.bg-6C6C6C?style=for-the-badge&logo=removedotbg&logoColor=white)](https://www.remove.bg/ko/)
+[![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-000000?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://developer.mozilla.org/ko/)
