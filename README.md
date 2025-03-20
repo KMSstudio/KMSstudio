@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/KMSstudio/KMSstudio/blob/main/image/profile.jpg?raw=true" width="150" alt="Profile Image">
-  <h1>こんにちは、普通のコンピューター工学者です。</h1>
+  <h1>나는 보통사람입니다. 믿어주세요</h1>
 </div>
 
 ---
@@ -11,6 +11,8 @@
 ---
 
 ### I like
+![Finance](https://img.shields.io/badge/Finance-FFD700?style=for-the-badge&logo=bitcoin&logoColor=black)
+![Next.js](https://img.shields.io/badge/security-000000?style=for-the-badge&logo=openaccess&logoColor=ffffff)
 ![C](https://img.shields.io/badge/C_lang-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/Cxx-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-383838?style=for-the-badge&logo=assemblyScript&logoColor=white)
@@ -18,12 +20,13 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Finance](https://img.shields.io/badge/Finance-FFD700?style=for-the-badge&logo=bitcoin&logoColor=black)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-6B9E25?style=for-the-badge&logo=linuxmint&logoColor=white)
 ![Dell](https://img.shields.io/badge/Dell-007DB8?style=for-the-badge&logo=dell&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_Web_Services-0A182C?style=for-the-badge&logo=amazonwebservices&logoColor=FF9908)
 ![Logitech](https://img.shields.io/badge/Logitech-38FADF?style=for-the-badge&logo=logitech&logoColor=000000)
+
+
 
 ### SNS
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KMSstudio)
