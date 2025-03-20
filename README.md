@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/KMSstudio/KMSstudio/blob/main/image/profile.jpg?raw=true" width="150" alt="Profile Image">
-  <h1>안녕하세요, 신시우입니다!</h1>
+  <h1>こんにちは、普通のコンピューター工学者です。</h1>
 </div>
 
 ---
@@ -25,7 +25,7 @@
 ![AWS](https://img.shields.io/badge/Amazon_Web_Services-0A182C?style=for-the-badge&logo=amazonwebservices&logoColor=FF9908)
 ![Logitech](https://img.shields.io/badge/Logitech-38FADF?style=for-the-badge&logo=logitech&logoColor=000000)
 
-### Social Network Service
+### SNS
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KMSstudio)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/clever.kang)
 [![Tstory](https://img.shields.io/badge/Tstory-white?style=for-the-badge&logo=telefonica&logoColor=black)](https://kms-program.tistory.com/)
