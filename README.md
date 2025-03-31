@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/KMSstudio/KMSstudio/blob/main/image/profile.jpg?raw=true" width="150" alt="Profile Image">
-  <h1>나는 보통사람입니다. 나 이 사람, 믿어주세요</h1>
+  <h1>하면된다</h1>
 </div>
 
 ### Statistics
@@ -19,7 +19,6 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-6B9E25?style=for-the-badge&logo=linuxmint&logoColor=white)
-![Dell](https://img.shields.io/badge/Dell-007DB8?style=for-the-badge&logo=dell&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_Web_Services-0A182C?style=for-the-badge&logo=amazonwebservices&logoColor=FF9908)
 ![Logitech](https://img.shields.io/badge/Logitech-38FADF?style=for-the-badge&logo=logitech&logoColor=000000)
