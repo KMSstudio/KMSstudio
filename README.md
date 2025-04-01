@@ -28,9 +28,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KMSstudio)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/clever.kang)
 [![Tstory](https://img.shields.io/badge/Tstory-white?style=for-the-badge&logo=telefonica&logoColor=black)](https://kms-program.tistory.com/)
-
----
-
-### Utility
-[![Remove.bg](https://img.shields.io/badge/Remove.bg-6C6C6C?style=for-the-badge&logo=removedotbg&logoColor=white)](https://www.remove.bg/ko/)
-[![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-000000?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://developer.mozilla.org/ko/)
