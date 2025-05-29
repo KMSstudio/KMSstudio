@@ -3,6 +3,8 @@
   <h1>하면된다</h1>
 </div>
 
+You can call me serius, or Kang Myeong Seok. If you call me Kang Myeong Seok, please note that 'Kang' comes first.
+
 ### Statistics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KMSstudio&layout=compact&langs_count=10&exclude_repo=login_lecture,express-ejs-skeleton,computer-architector)
 
