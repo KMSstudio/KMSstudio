@@ -8,8 +8,6 @@ You can call me serius, or Kang Myeong Seok. If you call me Kang Myeong Seok, pl
 ### Statistics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KMSstudio&layout=compact&langs_count=10&exclude_repo=login_lecture,express-ejs-skeleton,computer-architector)
 
----
-
 ### I like
 ![Finance](https://img.shields.io/badge/Finance-FFD700?style=for-the-badge&logo=bitcoin&logoColor=black)
 ![Next.js](https://img.shields.io/badge/security-000000?style=for-the-badge&logo=openaccess&logoColor=ffffff)
@@ -24,7 +22,6 @@ You can call me serius, or Kang Myeong Seok. If you call me Kang Myeong Seok, pl
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_Web_Services-0A182C?style=for-the-badge&logo=amazonwebservices&logoColor=FF9908)
 ![Logitech](https://img.shields.io/badge/Logitech-38FADF?style=for-the-badge&logo=logitech&logoColor=000000)
-
 
 ### SNS
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KMSstudio)
